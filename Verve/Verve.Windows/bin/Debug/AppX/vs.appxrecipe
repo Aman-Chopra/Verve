@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AMAN-CHOPRA</Machine>
+    <WindowsUser>win-8</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f737d7ea-a2d0-417c-8a20-268900b84068</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>23A0EAF282413FD8CD7979E66F96F31DA91BBAF6C57975FA1AA839A099DAEEF3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f737d7ea-a2d0-417c-8a20-268900b84068_1.0.0.0_neutral__31bwjen9me14a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f737d7ea-a2d0-417c-8a20-268900b84068_31bwjen9me14a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f737d7ea-a2d0-417c-8a20-268900b84068</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=win-8</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-01T07:18:50.465</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\Verve.Windows.exe">
+      <PackagePath>Verve.Windows.exe</PackagePath>
+      <Modified>2016-03-31T03:43:56.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\packages\WindowsAzure.MobileServices.1.3.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+      <Modified>2015-10-31T19:01:14.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\packages\WindowsAzure.MobileServices.1.3.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+      <Modified>2015-10-31T19:01:14.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-10-31T19:01:12.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-10-31T19:01:14.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-10-31T19:01:14.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\js\MobileServices.intellisense.js">
+      <PackagePath>js\MobileServices.intellisense.js</PackagePath>
+      <Modified>2015-10-31T19:01:40.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\js\MobileServices.js">
+      <PackagePath>js\MobileServices.js</PackagePath>
+      <Modified>2015-10-31T19:01:40.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\js\MobileServices.min.js">
+      <PackagePath>js\MobileServices.min.js</PackagePath>
+      <Modified>2015-10-31T19:01:39.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-31T18:18:35.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-11-01T03:23:36.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\Developer.xbf">
+      <PackagePath>Developer.xbf</PackagePath>
+      <Modified>2015-11-01T03:23:36.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\docportal.xbf">
+      <PackagePath>docportal.xbf</PackagePath>
+      <Modified>2015-11-01T03:23:36.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\Input.xbf">
+      <PackagePath>Input.xbf</PackagePath>
+      <Modified>2015-11-01T07:18:49.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-11-01T07:18:49.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\PatientInput.xbf">
+      <PackagePath>PatientInput.xbf</PackagePath>
+      <Modified>2015-11-01T06:18:59.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\stats.xbf">
+      <PackagePath>stats.xbf</PackagePath>
+      <Modified>2015-11-01T08:12:11.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\Verve.Windows.xr.xml">
+      <PackagePath>Verve.Windows.xr.xml</PackagePath>
+      <Modified>2015-11-01T07:14:08.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-01T17:17:45.410</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:\Users\win-8\Documents\Visual Studio 2013\Projects\Verve\Verve\Verve.Windows\Verve.Windows.csproj;neutral
